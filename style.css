@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bookig-div {
+    width: 224px !important;
+}
+
+.bookig-div a{
+    text-decoration: none !important;
+}
+.package-section h2 {
+    margin-bottom: 100px !important;
+    font-weight: 700;
+    font-size: 27px;
+}
+
+.package-section p {
+    color: gray;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.package-section h3 {
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+
+
+.package-section h4 {
+    font-weight: bold;
+} 
+
+.btn-class a {
+    background-color: #F496D1 !important;
+    border: none !important;
+    padding: 5px  31px !important;
+    opacity: 0.4;
+    color: blue;
+}
+
+
+
+/* package-section end here */
+
+.card-section p {
+    margin-bottom: 2px;
+}
+
+.card-section img {
+    margin-top: 24px;
+}
+
+.card-section h2 {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+/* card section end here */
+
+.footer-section{
+    background-color: black;
+    height: 100px;
+}
+
+.footer-section a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 41px 10px;
+    color: #fff;
+}
